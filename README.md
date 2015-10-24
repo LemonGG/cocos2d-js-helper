@@ -5,4 +5,4 @@
 
 
 #### 项目开发常见问题
-* [多语言开发](https://github.com/LemonGG/cocos2d-js-helper/blob/master/source/Languages.js "多语言开发")
+* [多语言开发](https://github.com/LemonGG/cocos2d-js-helper/blob/master/Languages.md "多语言开发")
