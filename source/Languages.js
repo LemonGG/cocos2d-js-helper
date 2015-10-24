@@ -3,7 +3,7 @@ game.language = window.location.href.indexOf('bookor')==-1?'en':'ch'
 
 // test resource code
 res = {
-	startScene_bg_png : "res/start/"+lcocos.language+"/bg.png",
+	startScene_bg_png : "res/start/"+game.language+"/bg.png",
     startScene_play_png : "res/start/pub/play.png",
 }
 // 
