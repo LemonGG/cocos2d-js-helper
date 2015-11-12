@@ -8,3 +8,4 @@
 
 #### 项目开发常见问题
 * [多语言开发](https://github.com/LemonGG/cocos2d-js-helper/blob/master/Languages.md "多语言开发")
+* [圆周运动代码片段](source/math_0.js)
