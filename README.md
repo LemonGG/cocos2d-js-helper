@@ -2,6 +2,9 @@
 
 #### 环境搭建
 * [3.7](p/201512262312)
+
+#### 常见错误
+* [cocos compile -p web -m release 失败](p/201511281402)
 #### 动画
 * [使用.plist和.png播放动画](https://github.com/LemonGG/cocos2d-js-helper/blob/master/Animation.md "使用.plist和.png播放动画")
 
