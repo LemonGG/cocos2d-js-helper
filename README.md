@@ -1,5 +1,7 @@
 # cocos2d-js-helper #
 
+#### 环境搭建
+* [3.7](p/201512262312)
 #### 动画
 * [使用.plist和.png播放动画](https://github.com/LemonGG/cocos2d-js-helper/blob/master/Animation.md "使用.plist和.png播放动画")
 
